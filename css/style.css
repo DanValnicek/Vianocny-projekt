@@ -22,7 +22,7 @@ body {
   line-height: 1.8;
   color: #7f7f7f;
   background: #fff;
-  height: 10%;
+  height: 100%;
   position: relative;
 }
 
@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 20px;
   right: 20px;
   font-family: 'icomoon';
-  speak: none;
+  
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -344,7 +344,6 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 20px;
   right: 20px;
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;

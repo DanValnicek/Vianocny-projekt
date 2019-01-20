@@ -10,7 +10,7 @@ let imgsCount = {
     "Martina":11,
     "nela":21,
     "petr":10,
-    "spoločné":59,
+    "spolocne":59,
 }
 
 
@@ -375,7 +375,7 @@ const imgsDescription={
                                                 9:"",
                                                10:"",
                                             },
-                                                "spoločné":{
+                                                "spolocne":{
                                                      1:"",
                                                      2:"",
                                                      3:"",
